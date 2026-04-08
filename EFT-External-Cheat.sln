@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D335D598-F8DE-4FC9-A3C9-B2AFC4AC5B30}") = "EFT-External-Cheat", "EFT-External-Cheat\EFT-External-Cheat.vcxproj", "{84D4A1BB-3924-410D-8449-E0F980A85E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D4A1BB-3924-410D-8449-E0F980A85E02}.Debug|x64.ActiveCfg = Debug|x64
+		{84D4A1BB-3924-410D-8449-E0F980A85E02}.Debug|x64.Build.0 = Debug|x64
+		{84D4A1BB-3924-410D-8449-E0F980A85E02}.Debug|x86.ActiveCfg = Debug|Win32
+		{84D4A1BB-3924-410D-8449-E0F980A85E02}.Debug|x86.Build.0 = Debug|Win32
+		{84D4A1BB-3924-410D-8449-E0F980A85E02}.Release|x64.ActiveCfg = Release|x64
+		{84D4A1BB-3924-410D-8449-E0F980A85E02}.Release|x64.Build.0 = Release|x64
+		{84D4A1BB-3924-410D-8449-E0F980A85E02}.Release|x86.ActiveCfg = Release|Win32
+		{84D4A1BB-3924-410D-8449-E0F980A85E02}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4090123B-693B-4185-AF1C-3E8ECB1859E7}
+	EndGlobalSection
+EndGlobal
